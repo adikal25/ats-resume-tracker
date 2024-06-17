@@ -24,6 +24,6 @@ This application allows users to upload a PDF resume and paste a job description
    git clone 
    cd Resume.ai
 
-pip install -r requirements.txt
-streamlit run app.py
+- pip install -r requirements.txt
+- streamlit run app.py
 
